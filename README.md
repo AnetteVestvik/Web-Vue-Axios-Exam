@@ -1,8 +1,24 @@
-# Web-Vue-Axios-Exam
+# resturant
 
-This is an exam assignment where the goal was to create a website for a resturant in Norway. The task consisted of creating a Vue project using Vuetify, and Axios and C# to create a web API. The solution consist of a user page with menues, and an admin page for edit, add and delete a dish. 
+## Project setup
+```
+npm install
+```
 
-To run: 
-1. npm install vue
-2. Start without debug on API folder. To see the API use /dish or /drink behind the URL. 
-3. Npm run serve inside Vue folder
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
