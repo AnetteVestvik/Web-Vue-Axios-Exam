@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anett\\Documents\\4.semester\\Webutvikling 2\\Eksamen\\ResturantAPI\\ResturantAPI.csproj": {}
+    "C:\\Users\\anett\\Desktop\\Web-Vue-Axios-Exam\\ResturantAPI\\ResturantAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anett\\Documents\\4.semester\\Webutvikling 2\\Eksamen\\ResturantAPI\\ResturantAPI.csproj": {
+    "C:\\Users\\anett\\Desktop\\Web-Vue-Axios-Exam\\ResturantAPI\\ResturantAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anett\\Documents\\4.semester\\Webutvikling 2\\Eksamen\\ResturantAPI\\ResturantAPI.csproj",
+        "projectUniqueName": "C:\\Users\\anett\\Desktop\\Web-Vue-Axios-Exam\\ResturantAPI\\ResturantAPI.csproj",
         "projectName": "ResturantAPI",
-        "projectPath": "C:\\Users\\anett\\Documents\\4.semester\\Webutvikling 2\\Eksamen\\ResturantAPI\\ResturantAPI.csproj",
+        "projectPath": "C:\\Users\\anett\\Desktop\\Web-Vue-Axios-Exam\\ResturantAPI\\ResturantAPI.csproj",
         "packagesPath": "C:\\Users\\anett\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anett\\Documents\\4.semester\\Webutvikling 2\\Eksamen\\ResturantAPI\\obj\\",
+        "outputPath": "C:\\Users\\anett\\Desktop\\Web-Vue-Axios-Exam\\ResturantAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anett\\AppData\\Roaming\\NuGet\\NuGet.Config"
